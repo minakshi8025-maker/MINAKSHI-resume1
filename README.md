@@ -6,20 +6,10 @@ Eager to learn, improve skills, and start a career in web development.
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS
 - JavaScript (Basic)  
-- Git & GitHub  
-
-## ✨ Features
-
-- Clean and simple resume layout  
-- Well-structured sections  
-- Beginner-friendly code  
-- Hosted using GitHub  
-- Easy to update and customize  
-
-
+- GitHub(Basic) 
 
 ## 💻 Projects Highlighted
 
@@ -32,11 +22,6 @@ Eager to learn, improve skills, and start a career in web development.
 - Web-based coffee ordering interface  
 - Built using **HTML, CSS, and JavaScript (Basic)**  
 - Interactive UI for ordering flow  
-
-### 📄 Basic Resume Demo (Using GitHub)
-- Created and hosted resume project on GitHub  
-- Clean and structured resume sections  
-
 
 ## 🎓 Education
 
