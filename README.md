@@ -7,10 +7,10 @@ Eager to learn, improve skills, and start a career in web development.
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML 
+- CSS  
 - JavaScript (Basic)  
-- Git & GitHub  
+-  GitHub(basic)  
 
 ---
 
