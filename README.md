@@ -18,8 +18,8 @@ Eager to learn, improve skills, and start a career in web development.
 - Built using **HTML & CSS**  
 - Focused on clean UI and user experience  
 <p align="left">
-  <a href="demo-of-picture.png">
-    <img src="demo-of-picture.png" width="400" alt="Amazon Clone Screenshot">
+  <a href="screenshot-of-project1.png">
+    <img src="screenshot-of-project1.png" width="400" alt="Amazon Clone Screenshot">
   </a>
 </p>
 
